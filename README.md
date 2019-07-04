@@ -9,12 +9,12 @@ Python 3 with the core modules for any ML project. That is, scikit-learn, pandas
 
 -CRISP-DM
 The methodology chosen to carry out this analysis is the Cross Industry Standard Process for Data Mining or CRISP-DM. This process is divided into the following phases
- 1- Develop business understanding
- 2- Develop Data Understanding
- 3- Data preparation
- 4- Creating models
- 5- Evaluate those models
- 6- Deployment
+ 1- Develop business understanding     
+ 2- Develop Data Understanding    
+ 3- Data preparation    
+ 4- Creating models      
+ 5- Evaluate those models    
+ 6- Deployment   
  In particular we will focus on the first five steps in this notebook
  
  
