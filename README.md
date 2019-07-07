@@ -8,13 +8,18 @@ This repo contains a jupyter notebook written in python that makes an analysis o
 Python 3 with the core modules for any ML project. That is, scikit-learn, pandas, seaborn, etc.
 
 -CRISP-DM
-The methodology chosen to carry out this analysis is the Cross Industry Standard Process for Data Mining or CRISP-DM. This process is divided into the following phases
+The methodology chosen to carry out this analysis is the Cross Industry Standard Process for Data Mining or CRISP-DM. This process is divided into the following phases    
+
  1- Develop business understanding     
  2- Develop Data Understanding    
  3- Data preparation    
  4- Creating models      
  5- Evaluate those models    
  6- Deployment   
+ 
  In particular we will focus on the first five steps in this notebook
+ 
+ Note: There is a blog post with a summary of the findings under this notebook. The link to the blog post is here
+ https://medium.com/@aleromar/do-you-really-need-to-bother-changing-the-price-of-your-property-on-airbnb-5bc8a754dd7c
  
  
